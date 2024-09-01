@@ -1,3 +1,3 @@
 # WeakMap-and-WeakSet
 
-Splving Questions on WeakMap And WeakSet, JavaScript
+Solving Questions on WeakMap And WeakSet, JavaScript
