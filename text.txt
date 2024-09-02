@@ -65,3 +65,18 @@ Now third-party code probably won’t see our extra property.
 
 Although symbols allow to lower the probability of problems, 
 using WeakSet is better from the architectural point of view.
+
+Looping with .entries()
+In the previous chapter, we saw the Object.entries(obj) method.
+
+We can use object.entries with destructuring to loop over the keys-and-values of an object:
+
+let user = {
+  name: "John",
+  age: 30
+};
+
+// loop over the keys-and-values
+for (let [key, value] of Object.entries(user)) {
+  alert(`${key}:${value}`); // name:John, then age:30
+}
