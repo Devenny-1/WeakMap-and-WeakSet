@@ -1,0 +1,26 @@
+questions on lops and object in javascript
+
+Sure! Here are some similar problems to practice with:
+
+1. **Find the Lowest Salary:**
+   Write a function `lowestSalary(salaries)` that returns the name of the person with the lowest salary.
+
+2. **Count Properties:**
+   Write a function `countProperties(obj)` that returns the number of properties (keys) in an object.
+
+3. **Find the Longest Name:**
+   Write a function `longestName(names)` that returns the name with the most letters in an object where the keys are names and the values are their lengths.
+
+4. **Total Salaries:**
+   Write a function `totalSalaries(salaries)` that returns the sum of all the salaries in the object.
+
+5. **Find a Key by Value:**
+   Write a function `findKeyByValue(obj, value)` that returns the key corresponding to a given value. For example, given `{a: 1, b: 2, c: 3}` and `value = 2`, it should return `"b"`.
+
+6. **Filter Salaries Above a Threshold:**
+   Write a function `filterSalaries(salaries, threshold)` that returns an array of names with salaries above a certain threshold.
+
+7. **Multiply All Salaries:**
+   Write a function `multiplySalaries(salaries, multiplier)` that multiplies each salary by a given multiplier and returns the new object.
+
+These problems will help reinforce your understanding of working with objects and loops in JavaScript!
